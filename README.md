@@ -3,7 +3,7 @@
 ### Objective
 The objective of this project to investigate a dataset using the Data Analysis Process.
 
-### DataSet¶
+### DataSet
 The data comes from the FBI's National Instant Criminal Background Check System. The NICS is used by to determine whether a prospective buyer is eligible to buy firearms or explosives. Gun shops call into this system to ensure that each customer does not have a criminal record or isn’t otherwise ineligible to make a purchase.
 
 The FBI provides data on the number of firearm checks by month, state, and type. The data represents the number of firearm background checks initiated through the NICS. They do not represent the number of firearms sold. Based on varying state laws and purchase scenarios, a one-to-one correlation cannot be made between a firearm background check and a firearm sale. Despite some caveats listed with the dataset, it is the best proxy for total gun sales.
